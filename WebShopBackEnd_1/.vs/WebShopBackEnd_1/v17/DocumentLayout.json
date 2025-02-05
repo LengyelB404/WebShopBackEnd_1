@@ -50,8 +50,7 @@
               "RelativeToolTip": "WebShopBackEnd_1\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-04T19:33:59.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T19:33:59.627Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "WebShopBackEnd_1\\Controllers\\AuthController.cs",
               "ViewState": "AQIAAE0AAAAAAAAAAADgv2gAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T17:17:56.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T17:17:56.901Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "WebShopBackEnd_1\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T17:13:41.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T17:13:41.851Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "WebShopBackEnd_1\\Models\\Webshop1Context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T16:46:41.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T16:46:41.292Z"
             },
             {
               "$type": "Document",
@@ -115,21 +111,19 @@
               "RelativeToolTip": "WebShopBackEnd_1\\WebShopBackEnd_1.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-04T17:10:08.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T17:10:08.066Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WebShopBackEnd_1",
+              "Title": "WebShopBackEnd_1.csproj",
               "DocumentMoniker": "C:\\Users\\Black\\Desktop\\GitRepos\\WebShopBackEnd_1\\WebShopBackEnd_1\\WebShopBackEnd_1\\WebShopBackEnd_1.csproj",
               "RelativeDocumentMoniker": "WebShopBackEnd_1\\WebShopBackEnd_1.csproj",
               "ToolTip": "C:\\Users\\Black\\Desktop\\GitRepos\\WebShopBackEnd_1\\WebShopBackEnd_1\\WebShopBackEnd_1\\WebShopBackEnd_1.csproj",
               "RelativeToolTip": "WebShopBackEnd_1\\WebShopBackEnd_1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T16:44:51.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T16:44:51.734Z"
             }
           ]
         }
