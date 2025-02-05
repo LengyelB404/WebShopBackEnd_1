@@ -1,6 +1,0 @@
-@WebShopBackEnd_1_HostAddress = http://localhost:5229
-
-GET {{WebShopBackEnd_1_HostAddress}}/webshop/
-Accept: application/json
-
-###
